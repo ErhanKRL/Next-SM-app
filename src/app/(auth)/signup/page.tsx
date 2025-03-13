@@ -16,7 +16,7 @@ export default function Page() {
           <div className="space-y-1 text-center">
             <h1 className="text-3xl font-bold">Sign up to Playbook</h1>
             <p className="text-muted-foreground">
-              Fallow people to see what they&apos;re up to and find others.
+              Follow people to see what they&apos;re up to and find others.
             </p>
           </div>
           <div className="space-y-5">
